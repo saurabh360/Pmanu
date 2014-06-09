@@ -28,6 +28,7 @@ namespace TestASbs
 			button.Click += delegate {
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
+			//Testasd
 		}
 	}
 }
